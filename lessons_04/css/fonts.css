@@ -1,0 +1,53 @@
+@font-face {
+	font-family: "KoPubBatang";
+	src: url("../fonts/KoPubBatang-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "KoPubBatang";
+	src: url("../fonts/KoPubBatang-Light.woff2") format("woff2");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "KoPubBatang";
+	src: url("../fonts/KoPubBatang-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: "Rutenia_Nezalezhna";
+    src: url("../fonts/Rutenia_Nezalezhna-Regular.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RuteniaDecor";
+    src: url("../fonts/RuteniaDecor-Regular.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RuteniaSofiaKyivska";
+    src: url("../fonts/RuteniaSofiaKyivska-Regular.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ocr";
+    src: url("../fonts/ocrabecker-Regular.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
