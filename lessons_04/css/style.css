@@ -6,7 +6,7 @@
 
 @import url("fonts.css");
 
-@import url("reser.css");
+@import url("reset.css");
 
 body {
     font-family: "Ocr", "RuteniaDecor", "Rutenia_Nazalezhna", "RuteniaSofiaKyivska", "KoPubBatang", sans-serif;
